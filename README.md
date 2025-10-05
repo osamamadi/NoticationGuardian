@@ -59,6 +59,3 @@ Osama Madi
 Wadiea Farran
 Qassem Nassar
 Ibrahim Assaad
-Qassem Nassar
-
-Ibrahim Assaad
