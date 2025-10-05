@@ -55,7 +55,7 @@ This project showcases our creativity, teamwork, and ability to deliver a fully 
 
 👥 Team Members
 
-Osama Madi
-Wadiea Farran
-Qassem Nassar
+Osama Madi, 
+Wadiea Farran, 
+Qassem Nassar, 
 Ibrahim Assaad
